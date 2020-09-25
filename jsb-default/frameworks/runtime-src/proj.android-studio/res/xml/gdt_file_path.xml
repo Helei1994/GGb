@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-files-path name="external_files_path" path="Download" />
+    <!--为了适配所有路径可以设置 path = "." -->
+
+    <!--文件根路径的定义-->
+    <root-path
+        name="root_path"
+        path="." />
+
+    <!--定义照片的路径-->
+    <external-path
+        name="my_images"
+        path="FeedbackPictures"/>
+
+    <external-path
+        name="gdt_sdk_download_path"
+        path="GDTDOWNLOAD" />
+
+    <!-- 这个下载路径不可以修改，必须是 GDTDOWNLOAD -->
+    <external-cache-path
+        name="gdt_sdk_download_path1"
+        path="com_qq_e_download" />
+    <cache-path
+        name="gdt_sdk_download_path2"
+        path="com_qq_e_download" />
+
+    <external-files-path
+        name="external_files_path"
+        path="Download" />
+</paths>

@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"coinDisappear","_duration":0.8333333333333334,"wrapMode":"2","curveData":{"props":{"opacity":[{"frame":0,"value":255},{"frame":0.4166666666666667,"value":0},{"frame":0.8333333333333334,"value":255}]}}}

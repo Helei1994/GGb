@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"specialMissionItemMove","_duration":0.5,"curveData":{"paths":{"panel/downNode/view/missionNode/specialNode":{"comps":{},"props":{"x":[{"frame":0,"value":0},{"frame":0.25,"value":-733,"curve":"constant"},{"frame":0.26666666666666666,"value":750},{"frame":0.5,"value":0}]}}}},"events":[{"frame":0.25,"func":"refreshShow","params":[]}]}

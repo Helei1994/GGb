@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"uiOut0","_duration":0.25,"curveData":{"paths":{"MyScoreLable":{"props":{"y":[{"frame":0,"value":503},{"frame":0.25,"value":-205}]}},"proPrefab":{"props":{"y":[{"frame":0,"value":388},{"frame":0.25,"value":-306}]}},"specialMissionNode":{"props":{"y":[{"frame":0,"value":332},{"frame":0.25,"value":-360}]}}}}}
